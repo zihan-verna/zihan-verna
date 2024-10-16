@@ -4,7 +4,7 @@
 
 __主要研究軟體資訊、人工智慧、影像處理領域。__
 
-同時擔任高中學科家教(數學、英文、國文)有三年經驗，有清晰邏輯與溝通表達的能力。  
+同時擔任高中學科家教(數學、英文、國文)有三年經驗，使三位學生顯著進步，有清晰邏輯與溝通表達的能力。  
 
 ## 工作技能
 - 程式語言 : Python、C/C++
@@ -64,7 +64,7 @@ Also, I have three years of experience tutoring high school subjects (Math, Engl
 #### Hackathon  
 - __License Plate Recognition System on PYNQ Z2 Board__
 
-## 特殊經歷
+## Achievements
 2024 IEEE ICCE-TW Conference Oral Presentation
 
 2023 Cathay Agile Program (Intern) (Cathay Life Insurance Programming Department)
