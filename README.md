@@ -15,17 +15,17 @@ Also, I have three years of experience tutoring high school subjects (Math, Engl
 
 
 ## Projects
-#### NTUST & Tri-Service General Hospital Industry Academic Collaboration  
-- __Multimodal Medical Image Integrated Analysis Clinical Diagnosis Support System__ (Source code not available) (2023~2024)
+1. NTUST & Tri-Service General Hospital Industry Academic Collaboration  
+   - __Multimodal Medical Image Integrated Analysis Clinical Diagnosis Support System__ (Source code not available) (2023~2024)
 
-#### Intern Project  
-- __Automated Medical Receipt Claim Processing with Optical Character Recognition (OCR)__ (Source code not available)
+2. Intern Project  
+   - __Automated Medical Receipt Claim Processing with Optical Character Recognition (OCR)__ (Source code not available)
 
-#### Undergraduate Research Project  
-- __Behavioral Pedestrian Flow Analysis System__
+3. Undergraduate Research Project  
+   - __Behavioral Pedestrian Flow Analysis System__
 
-#### Hackathon  
-- __License Plate Recognition System on PYNQ Z2 Board__
+4. Hackathon  
+   - __License Plate Recognition System on PYNQ Z2 Board__
 
 ## Achievements
 2024 IEEE ICCE-TW Conference Oral Presentation
