@@ -32,7 +32,7 @@ __主要研究軟體資訊、人工智慧、影像處理領域。__
 
 2023 國泰大CAP敏捷實習生計劃 (壽險部程式設計科 理賠受理登打OCR平台)  
 
-2021 Xilinx PYNQ AI/IoT Hackathon  
+2021 Xilinx PYNQ AI/IoT Hackathon 大專組 第三名  
 
 
 # Hi, I'm Verna.
@@ -69,5 +69,5 @@ Also, I have three years of experience tutoring high school subjects (Math, Engl
 
 2023 Cathay Agile Program (Intern) (Cathay Life Insurance Programming Department)
 
-2021 Xilinx PYNQ AI/IoT Hackathon
+2021 Xilinx PYNQ AI/IoT Hackathon **College Division Third Place**
 
