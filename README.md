@@ -1,4 +1,4 @@
-# Hi, I'm Verna Lin (子涵)
+# Hi, I'm ZiHan Lin (Verna)
 
 🎓 **Graduated with a Master’s degree in Electrical Engineering** from **NTUST** (2023–2025.8)  
 🎓 **Bachelor’s degree in Electrical Engineering** from **NTNU** (2023)  
