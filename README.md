@@ -1,6 +1,6 @@
 # Hi, I'm Verna.
-Currently pursuing a master's degree (Year 2) in Electrical Engineering, NTUST. (2023~now)  
-Completed my bachelor’s degree in Electrical Engineering at NTNU.  
+Graduated with a Master’s degree in Electrical Engineering from NTUST (2023–2025).
+Completed my Bachelor’s degree in Electrical Engineering at NTNU.
 
 __Primarily focusing on software information, artificial intelligence, and image processing.__
 
