@@ -36,8 +36,8 @@ Also, I have three years of experience tutoring high school subjects (Math, Engl
 
 
 # 你好，我是子涵。
-現正就讀國立台灣科技大學 電機工程研究所 **碩二** (2023~now)  
-曾就讀國立台灣師範大學 電機工程學系 (2023畢業)
+畢業於國立台灣科技大學 電機工程研究所 **碩二** (2023~2025.8)  
+畢業於國立台灣師範大學 電機工程學系 (2023畢業)
 
 __主要研究軟體資訊、人工智慧、影像處理領域。__
 
@@ -48,7 +48,7 @@ __主要研究軟體資訊、人工智慧、影像處理領域。__
 - 機器學習 : PyTorch
 - 作業系統 : Ubuntu/Linux、Windows
 - 網頁技術 : JavaScript、CSS、HTML
-- 其他 : socket.io、ZoKrates(zk-SNARK)、Streamlit
+- 其他 : socket.io、ZoKrates(zk-SNARK)、Streamlit、Flask
 
 
 ## 專案
